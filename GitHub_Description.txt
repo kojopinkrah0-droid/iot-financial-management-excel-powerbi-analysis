@@ -1,0 +1,1 @@
+Excel and Power BI analysis of 8,900 IoT financial transactions covering profitability, automation, system performance, risk, compliance and regional performance.
